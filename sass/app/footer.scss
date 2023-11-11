@@ -1,0 +1,43 @@
+.faght {
+  @media screen and (max-width: 767.5px) {
+    display: none;
+  }
+}
+
+.footer__confidencial {
+  color: var(--color-styles-white, #FFF);
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Gilroy;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+}
+
+.footer__text {
+  color: var(--color-styles-white, #FFF);
+  font-feature-settings: 'clig' off, 'liga' off;
+  /* Body */
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 135%;
+}
+
+.footer__subtitle {
+  color: var(--color-styles-white, #FFF);
+  font-feature-settings: 'clig' off, 'liga' off;
+  /* big body */
+  font-family: Gilroy;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+}
+
+.footer {
+  background-color: #3C3F48;
+  width: 100%;
+  height: auto;
+}

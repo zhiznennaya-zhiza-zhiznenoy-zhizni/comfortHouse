@@ -1,0 +1,27 @@
+.Our__services {
+  background: #2A2B32;
+  width: 100%;
+}
+
+.services__title {
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Playfair Display;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 135%;
+}
+
+.services__block {
+  position: relative;
+  width: 300px;
+}
+
+.services__subtitle {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  padding: 10px;
+}
