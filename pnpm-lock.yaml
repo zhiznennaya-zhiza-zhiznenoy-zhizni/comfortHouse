@@ -36,8 +36,8 @@ devDependencies:
     specifier: ^1.1.52
     version: 1.1.52
   '@iconify-json/prime':
-    specifier: ^1.1.5
-    version: 1.1.5
+    specifier: ^1.1.8
+    version: 1.1.8
   '@iconify-json/twemoji':
     specifier: ^1.1.11
     version: 1.1.11
@@ -1062,8 +1062,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/prime@1.1.5:
-    resolution: {integrity: sha512-Q2h8uUCfdWGBpXIJewPAFfX10SFq74KlrLgH/sT7+WUfqbf8KopiC/+fjskdRNV3DgnD9zDV648Xl6Q+gmT7sg==}
+  /@iconify-json/prime@1.1.8:
+    resolution: {integrity: sha512-wrvEuqlB3JZMCIU85Hx/nvZ+dxm4AfdbQgdTTZk9XBbjDh4fhuryf23m3J6+5g6JaanaD1eKxU671DaY5nMdsw==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
